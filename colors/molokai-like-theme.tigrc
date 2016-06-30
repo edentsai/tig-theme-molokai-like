@@ -27,6 +27,22 @@ color main-tag          197         default
 color main-local-tag    161         default
 color main-ref          144         default
 
+# Palette colors
+color palette-0         239         default
+color palette-1         242         default
+color palette-2         245         default
+color palette-3         248         default
+color palette-4         237         default
+color palette-5         240         default
+color palette-6         243         default
+color palette-7         246         default
+color palette-8         249         default
+color palette-9         238         default
+color palette-10        241         default
+color palette-11        244         default
+color palette-12        247         default
+color palette-13        236         default
+
 # Status view colors
 color status.header     186         236             bold
 color status.section    186         default
