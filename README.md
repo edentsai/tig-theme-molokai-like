@@ -1,7 +1,15 @@
-# Molokai-Like Color Scheme for [Tig](https://github.com/jonas/tig)
+# Molokai-Like colorscheme for [Tig](https://github.com/jonas/tig)
 
-This is a Molokai-like color scheme based on
-[Tomas Restrepo's Molokai color scheme for Vim](https://github.com/tomasr/molokai)
+This is a Molokai-like colorscheme for [Tig](https://github.com/jonas/tig), it based on
+[Tomas Restrepo's Molokai color scheme for Vim](https://github.com/tomasr/molokai).
+
+![Screenshots](https://github.com/edentsai/tig-theme-molokai-like/blob/master/screenshots/demo.gif)
+
+## Requirements
+
+- [Git](https://github.com/git/git)
+- [Tig: Text-mode interface for Git](https://github.com/jonas/tig)
+- 256-Color terminals
 
 ## Usage
 
