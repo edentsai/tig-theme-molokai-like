@@ -65,3 +65,7 @@ color "Commit: "        141         default
 color "CommitDate: "    67          default
 color "Merge: "         161         default
 color diff-stat         166         234
+
+## Signature colors
+color "gpg: "                       23			default
+color "Primary key fingerprint: "   23    		default
