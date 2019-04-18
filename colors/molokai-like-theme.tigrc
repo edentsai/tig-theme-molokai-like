@@ -64,6 +64,8 @@ color "AuthorDate: "    			67          default
 color "Commit: "        			141         default
 color "CommitDate: "    			67          default
 color "Merge: "         			161         default
+color "---"              			67          default
+color diff-index            			67          default
 color diff-stat         			166         234
 color diff-add-highlight 			default     24
 color diff-del-highlight 			162         53
