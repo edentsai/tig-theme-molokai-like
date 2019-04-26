@@ -67,8 +67,8 @@ color "Merge: "         			161         default
 color "---"              			67          default
 color diff-index            			67          default
 color diff-stat         			166         234
-color diff-add-highlight 			default     24
-color diff-del-highlight 			162         53
+color diff-add-highlight            10          22
+color diff-del-highlight            9           52
 
 ## Signature colors
 color "gpg: "                       23			default
